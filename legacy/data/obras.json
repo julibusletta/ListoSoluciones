@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "titulo": "MIRADOR COMASTRI",
+    "descripcion": "Remodelación y restauración del edificio",
+    "imagenes": [
+      "images/MIRADOR COMASTRI/B12VzzcTM_1200x0__1.jpg",
+      "images/MIRADOR COMASTRI/B1DNmzqpM_1200x0__1.jpg",
+      "images/MIRADOR COMASTRI/Hyd1-G96z_1200x0__1.jpg",
+      "images/MIRADOR COMASTRI/r1FwuZqTM_1200x0__1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "SBASE - COCHES PATRIMONIALES",
+    "descripcion": "Restauración de 4 Coches Patrimoniales, Línea A Restauración y Puesta en Valor",
+    "imagenes": [
+      "images/COCHES PATRIMONIALES/cochesrestaurados.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005362.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005363.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005364.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005365.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005377.jpg",
+      "images/COCHES PATRIMONIALES/2018-01-22-PHOTO-00005378.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "ALLIANZ",
+    "descripcion": "Restauración y puesta en valor de la fachada del edificio",
+    "imagenes": [
+      "images/ALLIANZ/allianz.png",
+      "images/ALLIANZ/2018-01-22-PHOTO-00005379.jpg",
+      "images/ALLIANZ/2018-01-22-PHOTO-00005380.jpg",
+      "images/ALLIANZ/2018-01-22-PHOTO-00005391.jpg",
+      "images/ALLIANZ/cortada.jpg",
+      "images/ALLIANZ/IMG_0055.JPG"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "AULA GEOLOGIA",
+    "descripcion": "",
+    "imagenes": [
+      "images/AULA GEOLOGIA/1.jpg",
+      "images/AULA GEOLOGIA/bajada junio 2015 1066.JPG",
+      "images/AULA GEOLOGIA/bajada junio 2015 1130.jpg",
+      "images/AULA GEOLOGIA/bajada junio 2015 1146.JPG",
+      "images/AULA GEOLOGIA/bajada junio 2015 1147.jpg",
+      "images/AULA GEOLOGIA/bajada junio 2015 1190.jpg",
+      "images/AULA GEOLOGIA/bajada junio 2015 1192.JPG",
+      "images/AULA GEOLOGIA/bajada junio 2015 1198.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "OBRA CONCORDIA",
+    "descripcion": "",
+    "imagenes": [
+      "images/OBRA CONCORDIA/IMAG1515.jpg",
+      "images/OBRA CONCORDIA/IMAG1524.jpg",
+      "images/OBRA CONCORDIA/IMAG1545.jpg",
+      "images/OBRA CONCORDIA/IMAG1550 (1).jpg",
+      "images/OBRA CONCORDIA/IMAG1552.jpg",
+      "images/OBRA CONCORDIA/IMAG1609.jpg",
+      "images/OBRA CONCORDIA/IMAG1615.jpg",
+      "images/OBRA CONCORDIA/IMAG1722.jpg",
+      "images/OBRA CONCORDIA/IMAG1762.jpg",
+      "images/OBRA CONCORDIA/IMAG1764.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "TEATRO COLON",
+    "descripcion": "Restauración de la sala Principal<br>-Rescate de luminarias históricas<br>-Rescate de Bronces y Herrajes históricas <br>-Restauración de araña central de sala y sistema de izaje",
+    "imagenes": [
+      "images/TEATRO COLON/GENTE-RECORRIDA-TEATRO-COLON-FOM-0047-20180529.jpg",
+      "images/TEATRO COLON/DSC08799.JPG",
+      "images/TEATRO COLON/Teatro-Colon-2.jpg",
+      "images/TEATRO COLON/Teatro-Colon-3.jpg",
+      "images/TEATRO COLON/Teatro-Colon-sala-principal-2.jpg",
+      "images/TEATRO COLON/Teatro-Colon-sala-principal-5.jpg",
+      "images/TEATRO COLON/Teatro-Colon-sala-principal-3.jpg",
+      "images/TEATRO COLON/Teatro-Colon-Salon-dorado-8.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "SBASE - MAYOLICAS",
+    "descripcion": "Desmontaje, limpieza y embalaje de revestimientos cerámicos de valor patrimonial",
+    "imagenes": [
+      "images/MAYOLICAS/ea8cd3_1f8ab6adfc484030a9e7c4c73777df8d_mv2.jpg",
+      "images/MAYOLICAS/ea8cd3_530a2f1814a649f4a2095d2e49e20f95_mv2_d_2016_1512_s_2.jpg",
+      "images/MAYOLICAS/IMG_1384.JPG",
+      "images/MAYOLICAS/IMG_1389.JPG"
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "CONVENTO SAN FRANCISCO",
+    "descripcion": "Refacción en muros y cubierta de la Biblioteca",
+    "imagenes": [
+      "images/CONVENTO SAN FRANCISCO/ea8cd3_1e1bbe7f58514a4fbb57df509a2f1051mv2.jpg",
+      "images/CONVENTO SAN FRANCISCO/ea8cd3_d9d4aafdaabe41268d7d572e7bf542bamv2_d_5016_1814_s_2 (1).jpg",
+      "images/CONVENTO SAN FRANCISCO/ea8cd3_d9d4aafdaabe41268d7d572e7bf542bamv2_d_5016_1814_s_2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "LAGOS DE SAN ELISEO",
+    "descripcion": "Vivienda: proyecto y dirección de obra",
+    "imagenes": [
+      "images/SAN ELISEO/ea8cd3_557c3d3777684a3798fc28d02116bbc1mv2.jpg",
+      "images/SAN ELISEO/ea8cd3_fa58cca6da35481d8fdef140dc1787e6mv2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "COUNTRY CANNING",
+    "descripcion": "Vivienda: proyecto y dirección de obra",
+    "imagenes": [
+      "images/country/ea8cd3_7a4f99938dd24aa6818b9f923adbd1a3mv2.jpg",
+      "images/country/ea8cd3_b1e0e66518844112ac9ef202196a0a19mv2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "VIVIENDA EN SAN CARLOS DE BARILOCHE",
+    "descripcion": "Proyecto y dirección de obra",
+    "imagenes": [
+      "images/proyecto bariloche/IMG_6330.JPEG",
+      "images/proyecto bariloche/IMG_6322.JPEG",
+      "images/proyecto bariloche/IMG_6312.JPEG",
+      "images/proyecto bariloche/IMG_5844.JPEG",
+      "images/proyecto bariloche/IMG_4271.JPEG",
+      "images/proyecto bariloche/IMG_2999.JPEG",
+      "images/proyecto bariloche/IMG_2523.JPEG"
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "SCALICE",
+    "descripcion": "Remodelación y ampliación de oficinas",
+    "imagenes": [
+      "images/scalise/ea8cd3_89e6b0bcdd654551b9779c2c830b9289mv2.jpg",
+      "images/scalise/ea8cd3_89099474362b4bc6a5647b7531075694mv2.jpg",
+      "images/scalise/ea8cd3_5c368bce8fba4267b56894d3966b704amv2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "LINEA D - FACULTAD DE MEDICINA",
+    "descripcion": "Puesta en Valor e Integración a Proyecto Plaza Houssay",
+    "imagenes": [
+      "images/FACULTAD DE MEDICINA/20190302-estacion-subte-facultad-de-medicina-646156.jpg",
+      "images/FACULTAD DE MEDICINA/2018-01-22-PHOTO-00005355.jpg",
+      "images/FACULTAD DE MEDICINA/2018-01-22-PHOTO-00005356.jpg",
+      "images/FACULTAD DE MEDICINA/2018-01-22-PHOTO-00005372.jpg",
+      "images/FACULTAD DE MEDICINA/2018-01-22-PHOTO-00005373.jpg"
+    ]
+  }
+]
