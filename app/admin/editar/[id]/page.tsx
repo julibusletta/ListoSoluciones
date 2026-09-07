@@ -5,7 +5,7 @@ export default async function EditarObraPage({ params }: { params: Promise<{ id:
   const { id } = await params
   const isNew = id === 'new'
   
-  let obra = null
+  let obra: any = null
   if (!isNew) {
     obra = await getObra(id)
   }
